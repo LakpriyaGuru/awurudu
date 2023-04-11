@@ -1,3 +1,3 @@
-# awurudu23
+# සිංහල අලුත් අවුරුදු නැකැත් සීට්ටුව 2023
 
-A simple Awurudu Nakath Sittuwa
+A simple සිංහල අලුත් අවුරුදු නැකැත් සීට්ටුව
